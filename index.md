@@ -19,6 +19,12 @@ bringing to the world powerful software such as
 Being powered by [The GCC Compiler](https://gcc.gnu.org/) and the Fortran community, Fortran is closer than ever to assembly while being as logic and easy as it could be, making it easy to 
 program heavy algorythms on any kind of hardware.
 
+Fortran's Hello World :
+```markdown
+program hello
+  print *, 'Hello, World!'
+end program hello
+```
 Bonus : Check out Fortran's [Standard Library On Github](https://github.com/fortran-lang/stdlib).
 ## Trust Me Bro
 Run that.
