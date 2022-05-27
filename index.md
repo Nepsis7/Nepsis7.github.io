@@ -4,11 +4,11 @@ I'm a c++ gamedev, mainly using unity and ue5. You can find me on [Discord](http
 
 
 
-## Weekly Post
+## Maybe Sometimes I'll Post Stuff Here
 
-From now on I'll update this part weekly, bringing info, devlogs, or even thoughts
+From now on I'll update this part here and there, bringing info, devlogs, or even thoughts
 
-### This Week's Topic : Fortran
+### Today's Topic : Fortran
 [Fortran](https://fortran-lang.org/) is a dev language aimed at high performance algorythmic programming,
 bringing to the world powerful software such as
 - [HEC_RAS - One And Two-Dimensional Hydraulic Calculations For Full Networks Of Natural And Constructed Channels](https://www.hec.usace.army.mil/software/hec-ras/)
