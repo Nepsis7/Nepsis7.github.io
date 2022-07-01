@@ -1,6 +1,6 @@
 # Welcome to Nepsis's Cave
 
-I'm a c++ gamedev, mainly using unity and ue5. You can find me on [Discord](https://discord.gg/Js6RGgMn5b), [Telegram](https://t.me/NepsisT), or [YTM](https://music.youtube.com/channel/UCje5WXZ9fe0T1EK6imS3fYw?feature=share)
+I'm a c++ gamedev, mainly using unity and ue5. You can find me on [Discord](https://discord.gg/Js6RGgMn5b), [Telegram](https://t.me/NepsisT), [Youtube](https://www.youtube.com/channel/UCje5WXZ9fe0T1EK6imS3fYw), or [YTM](https://music.youtube.com/channel/UCje5WXZ9fe0T1EK6imS3fYw?feature=share)
 
 
 
