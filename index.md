@@ -31,7 +31,7 @@ Run that.
 ```markdown
 while(1)
 {
-  __int64* cmonrunthat = (__int64*)malloc(sizeof(__int64));
+  __int64* cmonrunthat = (__int64*)malloc(sizeof(__int64) * 15);
 }
 ```
 
